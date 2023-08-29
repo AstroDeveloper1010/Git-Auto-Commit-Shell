@@ -4,7 +4,7 @@
 
 ## Scan this qr code
 
-![QR Code](qr_code.png)
+![QR Code]('qr_code.png')
 
 ## Usage
 
