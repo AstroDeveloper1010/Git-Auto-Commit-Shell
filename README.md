@@ -2,39 +2,40 @@
 
 🚀 This Shell script automates Git commits and pushes changes to a remote repository.
 
-## Scan this qr code
+## 📷 Scan this qr code
 
-![QR Code]('qr_code.png')
+![QR Code](qr_code.png)
 
-## Usage
+## 👨‍💻 Usage
 
 1. Clone this repository or create a new shell scrit as 'auto_commit.sh'.
 2. Open the script in your preferred text editor (like vs code).
 3. Configure the script by modifying the variables in the script.
 
-## Prerequisites
+## ✅ Prerequisites
 
 - Git must be installed on your system.
 
-## How to Run
+## 💻 How to Run
 
 1. Make the script excutable:
    ```bash
    chmod +x auto_commit.sh
 
 2. Run the script
+   ```bash
    ./auto_commit.sh
 
-## Customization
+## 🎨 Customization
 
 Modify the variables in the script to match your repository setup (REPO_DIR, BRANCH, COMMIT_MESSAGE).
 
-## Error Handling
+## 🤖 Error Handling
 
 1. The script handles errors during commiting and pushing.
 2. Displays a message if an error occurs.
 
-## Licence
+## 📃 Licence
 
 This project is licenced under the MIT Licence.
 
