@@ -4,7 +4,7 @@
 
 ## 📷 Scan this qr code
 
-![QR Code](qr_code.png){:height="200px" width="200px"}
+<img src="qr_code.png" alt="qr code" width="200"/>
 
 ## 👨‍💻 Usage
 
